@@ -1,0 +1,2 @@
+com/project/photos/x/shared/BuildConfig.java
+ com.project.photos.x.shared.BuildConfig
